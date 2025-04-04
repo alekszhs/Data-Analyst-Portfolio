@@ -1,4 +1,9 @@
-In this folder you will find 2 files.
-On the one im comparing bitcoin and ethereum values over time.
-On the other i analyze the monthly weather of a city in US.
-AnalyzeWeather.ipynb
+# CompareBitcoinEthereumValues.ipynb
+** This file contains comparative data on Bitcoin and Ethereum values over time. **
+
+
+# AnalyzeWeather.ipynb
+** This file provides the monthly weather data for July 2018 in Sitka, Alaska.
+It includes details about precipitation (PRCP), average temperature (TAVG), maximum temperature (TMAX), and minimum temperature (TMIN). **
+
+** Both files can be analyzed using Python for insights—whether it’s identifying cryptocurrency trends or understanding Sitka’s weather patterns. **
